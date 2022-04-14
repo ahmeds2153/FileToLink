@@ -3,8 +3,8 @@ pip>=21.1.2
 pyrogram==1.2.20
 TgCrypto~=1.2.2
 
-Quart==0.16.0
-Hypercorn==0.12.0
+Quart==0.15.1
+Hypercorn==0.11.2
 
 aiohttp~=3.8.0
-jinja2
+Jinja2==3.0.3
