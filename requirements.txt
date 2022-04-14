@@ -7,3 +7,4 @@ Quart==0.16.0
 Hypercorn==0.12.0
 
 aiohttp~=3.8.0
+jinja2
